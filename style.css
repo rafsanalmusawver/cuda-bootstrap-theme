@@ -384,11 +384,13 @@
 	border:none;
 	color:#CFD8DC;
 	font-family: 'Titillium Web', sans-serif;
+	transition:.8s;
 	}
 
 .sendBtn:hover{
 	background-color:white;
 	color:#3C5499; 
+	transition:.8s;
 	}
 
 /*--seventh section--*/
