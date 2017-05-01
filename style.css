@@ -376,6 +376,7 @@
 	color:white;
 	text-transform: uppercase;
 	font-family: 'Titillium Web', sans-serif;
+	transition:.8s;
 	}
 
 .textBox{
@@ -384,7 +385,6 @@
 	border:none;
 	color:#CFD8DC;
 	font-family: 'Titillium Web', sans-serif;
-	transition:.8s;
 	}
 
 .sendBtn:hover{
