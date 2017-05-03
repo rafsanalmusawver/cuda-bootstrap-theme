@@ -526,6 +526,7 @@
 
 .feedbackText p {
     text-align: center;
+	margin:0 auto;
 	}
 
 .feedbackText h3 {
@@ -640,12 +641,13 @@ hr {
 	}
 
 .firstSection {
-    padding: 24px 0px;
+    	padding: 24px 0px;
 	box-shadow: inset 0px 0px 93px -30px rgba(23,21,23,1);
 	}
 
 .feedbackText p {
-    text-align: center;
+	text-align: center;
+	margin:0 auto;
 	}
 
 .feedbackText h3 {
